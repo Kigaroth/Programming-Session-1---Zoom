@@ -39,7 +39,6 @@ int main() {
 	std::cout << "Enter your full name : ";
 	std::getline(std::cin, Fullname);
 	std::cout << "Your full name is: " << Fullname;
-	_getch();
 	system("pause");
 
 	//First attempt - Enter your age
